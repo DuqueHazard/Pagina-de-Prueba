@@ -1,0 +1,52 @@
+header
+{
+    padding: 1;
+    height: 225px;
+    background-color: rgb(167, 54, 54);
+    font-size: 26;
+}
+
+img{
+    color: #aa7444;
+   
+    border-radius: 15px;
+    border: solid;
+margin: auto;
+width: 500px;
+height: 400px;
+display: flex;
+   align-items: center;
+   justify-content: center;
+
+}
+h1{
+    
+    color: #aa7444;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 50px;
+    font-family: algerian;
+}
+h1#re{
+    
+    color: yellow;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 100px;
+    font-family: algerian;
+}
+
+
+body{
+    background-image: url("https://www.purabrasa.com/wp-content/uploads/2022/09/Comerdor-Pura-Brasa-Platja-dAro.jpeg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+table
+{
+    margin: auto;
+    justify-content: center;
+}
